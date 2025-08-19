@@ -1,1 +1,31 @@
 /* your code */
+*{
+	padding: 10px;
+	font-family: calibri;
+	border-collapse: collapse;
+}
+table{
+	width: 100%;
+	border-radius: 10px;
+	overflow: hidden;
+}
+#head{
+	text-align: left;
+	background-color: blueviolet;
+	color: white;
+}
+#t1{
+	background-color: white;
+}
+#t2{
+	background-color: cyan;
+}
+#t3{
+	background-color: white;
+}
+#t4{
+	background-color: cyan;
+}
+tr{
+	height: 30px;
+}
